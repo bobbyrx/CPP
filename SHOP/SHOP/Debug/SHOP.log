@@ -1,0 +1,6 @@
+﻿  Client.cpp
+  Main.cpp
+  Shop.cpp
+C:\Users\User\Desktop\C++files\SHOP\SHOP\Shop.cpp(169,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SHOP.vcxproj -> C:\Users\User\Desktop\C++files\SHOP\Debug\SHOP.exe
