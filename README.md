@@ -1,2 +1,2 @@
 # CPP
-Here are some projects from university FMI!
+Here are some projects written in C++ from university FMI!
